@@ -8,4 +8,4 @@ At ArkOne Softwares, we believe in creating solutions that grow with your busine
 
 As a forward-thinking QuickBase Solution Provider, we are committed to helping businesses harness the full potential of low-code development. We offer ongoing support, ensuring that your systems continue to perform optimally. At ArkOne Softwares, our mission is to empower businesses with technology that not only meets today's needs but also drives future success.
 
-[Software Solution and Colsulting](https://www.arkone.dev)
+[Software Solutions and Consulting](https://www.arkone.dev)
